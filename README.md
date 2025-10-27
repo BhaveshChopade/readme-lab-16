@@ -2,3 +2,5 @@
 This is my first README for the Git & GitHub lab.
 
 ## Updates from feature branch
+
+Local edit: pulled GitHub changes and now adding more.
